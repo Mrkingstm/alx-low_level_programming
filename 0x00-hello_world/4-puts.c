@@ -4,7 +4,7 @@
  * main - print the srting in the function
  *
  * Description: using the main function
- * this program prints "programing is like building a multilingual puzzle
+ * this program prints "programing is like building a multilingual puzzle"
  * Return: 0
  */
 int main(void)
